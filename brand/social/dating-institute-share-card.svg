@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">The Dating Institute share card</title>
+  <desc id="desc">Share card for the research initiative of The Dating Commons.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FCF6EF"/>
+      <stop offset="100%" stop-color="#EADBC8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="92" y="96" width="420" height="56" rx="28" fill="#F2EBDC"/>
+  <text x="302" y="132" text-anchor="middle" fill="#B84D33" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="4">RESEARCH INITIATIVE OF THE DATING COMMONS</text>
+  <text x="124" y="254" fill="#1D1813" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif" font-size="90">The Dating Institute</text>
+  <text x="124" y="364" fill="#1D1813" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif" font-size="66">Research for a dating industry</text>
+  <text x="124" y="430" fill="#1D1813" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif" font-size="66">that forgot the public interest.</text>
+  <text x="126" y="546" fill="#665948" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="33">Critique, evidence, practical guidance, and arguments</text>
+  <text x="126" y="590" fill="#665948" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="33">about apps, pricing, privacy, and better alternatives.</text>
+  <g transform="translate(126 676)">
+    <rect width="320" height="74" rx="37" fill="#1D1813"/>
+    <text x="160" y="45" text-anchor="middle" fill="#FFFAF3" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">datingcommons.org</text>
+  </g>
+  <g transform="translate(1060 164)">
+    <rect width="350" height="482" rx="38" fill="rgba(255,255,255,0.52)" stroke="#D3C2AF"/>
+    <text x="54" y="84" fill="#B84D33" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="4">AREAS OF FOCUS</text>
+    <text x="54" y="152" fill="#1D1813" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif" font-size="42">Monoculture</text>
+    <text x="54" y="214" fill="#1D1813" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif" font-size="42">Pricing extraction</text>
+    <text x="54" y="276" fill="#1D1813" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif" font-size="42">Privacy harms</text>
+    <text x="54" y="338" fill="#1D1813" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif" font-size="42">Social alternatives</text>
+    <text x="54" y="430" fill="#665948" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="24">The research initiative is part of the broader</text>
+    <text x="54" y="466" fill="#665948" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="24">Dating Commons umbrella.</text>
+  </g>
+</svg>

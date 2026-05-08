@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 220" role="img" aria-labelledby="title desc">
+  <title id="title">The Dating Commons wordmark</title>
+  <desc id="desc">The Dating Commons wordmark in an editorial serif style.</desc>
+  <rect width="1320" height="220" fill="none"/>
+  <text
+    x="660"
+    y="102"
+    text-anchor="middle"
+    fill="#1D1813"
+    font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif"
+    font-size="42"
+    letter-spacing="10"
+  >
+    THE DATING COMMONS
+  </text>
+  <text
+    x="660"
+    y="154"
+    text-anchor="middle"
+    fill="#B84D33"
+    font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="26"
+    letter-spacing="6"
+  >
+    A FOUNDATION FOR BETTER WAYS TO MEET
+  </text>
+</svg>

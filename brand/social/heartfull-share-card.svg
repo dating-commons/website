@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">HeartFull share card</title>
+  <desc id="desc">Share card for the product initiative within The Dating Commons ecosystem.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#2B211C"/>
+      <stop offset="100%" stop-color="#1A1411"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="126" cy="118" r="112" fill="#B84D33" opacity="0.22"/>
+  <circle cx="1454" cy="796" r="145" fill="#B84D33" opacity="0.18"/>
+  <text x="124" y="116" fill="#F3C2AE" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="6">PRODUCT INITIATIVE</text>
+  <text x="124" y="248" fill="#FFFAF3" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif" font-size="96">HeartFull</text>
+  <text x="124" y="356" fill="#FFFAF3" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif" font-size="62">A free dating mobile app testing</text>
+  <text x="124" y="420" fill="#FFFAF3" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif" font-size="62">the alternative to pay-to-win connection.</text>
+  <text x="126" y="540" fill="#D3C2AF" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="33">Part of the wider Dating Commons public-interest umbrella.</text>
+  <g transform="translate(126 652)">
+    <rect width="252" height="74" rx="37" fill="#FFFAF3"/>
+    <text x="126" y="45" text-anchor="middle" fill="#1D1813" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">heartfull.online</text>
+  </g>
+  <g transform="translate(1124 226)">
+    <rect width="222" height="222" rx="56" fill="#FFFAF3" opacity="0.97"/>
+    <text x="111" y="128" text-anchor="middle" fill="#C02017" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="112">❤</text>
+  </g>
+</svg>

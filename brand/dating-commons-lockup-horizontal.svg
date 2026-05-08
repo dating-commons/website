@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Dating Commons horizontal lockup</title>
+  <desc id="desc">The Dating Commons symbol and wordmark arranged horizontally.</desc>
+  <rect width="1600" height="520" fill="none"/>
+  <g transform="translate(74 24) scale(0.46)">
+    <path d="M394 222C277 294 236 718 410 802" fill="none" stroke="#B84D33" stroke-linecap="round" stroke-width="52"/>
+    <path d="M630 222C747 294 788 718 614 802" fill="none" stroke="#1D1813" stroke-linecap="round" stroke-width="52"/>
+    <path d="M468 344C430 404 420 620 470 680" fill="none" stroke="#D9B38C" stroke-linecap="round" stroke-width="30"/>
+    <path d="M556 344C594 404 604 620 554 680" fill="none" stroke="#D9B38C" stroke-linecap="round" stroke-width="30"/>
+    <rect x="444" y="418" width="136" height="188" rx="68" fill="#FFFAF3" stroke="#1D1813" stroke-width="18"/>
+    <circle cx="512" cy="512" r="31" fill="#B84D33"/>
+  </g>
+  <text
+    x="538"
+    y="212"
+    fill="#1D1813"
+    font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif"
+    font-size="66"
+    letter-spacing="12"
+  >
+    THE DATING COMMONS
+  </text>
+  <text
+    x="540"
+    y="286"
+    fill="#B84D33"
+    font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="28"
+    letter-spacing="6"
+  >
+    RESEARCH, EVENTS, AND ALIGNED ALTERNATIVES
+  </text>
+  <line x1="540" y1="326" x2="1348" y2="326" stroke="#D3C2AF" stroke-width="2"/>
+  <text
+    x="540"
+    y="382"
+    fill="#665948"
+    font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="24"
+  >
+    Foundation umbrella for The Dating Institute, HeartFull,
+  </text>
+  <text
+    x="540"
+    y="418"
+    fill="#665948"
+    font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="24"
+  >
+    and the Offline Dating Movement.
+  </text>
+</svg>
